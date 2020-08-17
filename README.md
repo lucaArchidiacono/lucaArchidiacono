@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luca Archidiacono</h1>
 <h3 align="center">I like memes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaarchidiacono" alt="lucaarchidiacono" /> </p>
-
 - 🔭 I’m currently working on [UBS Mobile Banking iOS App](https://www.ubs.com/ch/de/private/digital-banking/mobile-banking.html)
 
 - 🌱 I’m currently learning **React Native, Swift, go-lang**
