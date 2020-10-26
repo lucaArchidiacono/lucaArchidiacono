@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UBS Mobile Banking iOS App](https://www.ubs.com/ch/de/private/digital-banking/mobile-banking.html)
 
-- 🌱 I’m currently learning **React, Swift, go-lang**
+- 🌱 I’m currently learning **React, Swift, Python**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/luca-archidiacono](www.linkedin.com/in/luca-archidiacono)
 
