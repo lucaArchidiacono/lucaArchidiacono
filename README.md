@@ -7,6 +7,6 @@
 
 - 💬 Ask me about **Swift, Python**
 
-- 📫 How to reach me **luca@swift-mail.com**
+- 📫 How to reach me **mail@lucaa.io**
 
-- ⚡ Fun fact **I'm a professional Googler.**
+- ⚡ Fun fact **You can use emojis in Swift as actual code**
