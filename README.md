@@ -5,8 +5,4 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/luca-archidiacono](www.linkedin.com/in/luca-archidiacono)
 
-- 💬 Ask me about **Swift, Python**
-
-- 📫 How to reach me **mail@lucaa.io**
-
-- ⚡ Fun fact **You can use emojis in Swift as actual code**
+- 📫 How to reach me **mail@lucaa.dev**
