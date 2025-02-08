@@ -3,6 +3,4 @@
 
 - 🔭 I’m currently working on [Digitec/Galaxus iOS App](https://www.galaxus.ch/)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/luca-archidiacono](www.linkedin.com/in/luca-archidiacono)
-
 - 📫 How to reach me **mail@lucaa.dev**
