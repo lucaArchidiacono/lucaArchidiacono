@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working on [Digitec/Galaxus iOS App](https://www.galaxus.ch/)
 
-- 📫 How to reach me **mail@lucaa.dev**
+- 📫 How to reach me **mail@archiluc.ch**
